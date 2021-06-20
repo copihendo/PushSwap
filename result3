@@ -1,0 +1,518 @@
+Check all [33m3[0m number combination:
+1 2 3 comb
+	Correctness: True
+	Count_moves: 7
+
+1 3 2 comb
+	Correctness: True
+	Count_moves: 8
+
+2 1 3 comb
+	Correctness: True
+	Count_moves: 7
+
+2 3 1 comb
+	Correctness: True
+	Count_moves: 8
+
+3 1 2 comb
+	Correctness: True
+	Count_moves: 8
+
+3 2 1 comb
+	Correctness: True
+	Count_moves: 8
+
+	Mean: [33m7.67[0m Std: [33m0.47[0m Min: [33m7[0m Max: [33m8[0m
+	[31mThere is a problem[0m result -> 0/6
+
+Check all [33m5[0m number combination:
+1 2 3 4 5 comb
+	Correctness: True
+	Count_moves: 13
+
+1 2 3 5 4 comb
+	Correctness: True
+	Count_moves: 17
+
+1 2 4 3 5 comb
+	Correctness: True
+	Count_moves: 13
+
+1 2 4 5 3 comb
+	Correctness: True
+	Count_moves: 13
+
+1 2 5 3 4 comb
+	Correctness: True
+	Count_moves: 17
+
+1 2 5 4 3 comb
+	Correctness: True
+	Count_moves: 17
+
+1 3 2 4 5 comb
+	Correctness: True
+	Count_moves: 17
+
+1 3 2 5 4 comb
+	Correctness: True
+	Count_moves: 21
+
+1 3 4 2 5 comb
+	Correctness: True
+	Count_moves: 17
+
+1 3 4 5 2 comb
+	Correctness: True
+	Count_moves: 17
+
+1 3 5 2 4 comb
+	Correctness: True
+	Count_moves: 21
+
+1 3 5 4 2 comb
+	Correctness: True
+	Count_moves: 21
+
+1 4 2 3 5 comb
+	Correctness: True
+	Count_moves: 13
+
+1 4 2 5 3 comb
+	Correctness: True
+	Count_moves: 13
+
+1 4 3 2 5 comb
+	Correctness: True
+	Count_moves: 17
+
+1 4 3 5 2 comb
+	Correctness: True
+	Count_moves: 17
+
+1 4 5 2 3 comb
+	Correctness: True
+	Count_moves: 13
+
+1 4 5 3 2 comb
+	Correctness: True
+	Count_moves: 17
+
+1 5 2 3 4 comb
+	Correctness: True
+	Count_moves: 17
+
+1 5 2 4 3 comb
+	Correctness: True
+	Count_moves: 17
+
+1 5 3 2 4 comb
+	Correctness: True
+	Count_moves: 21
+
+1 5 3 4 2 comb
+	Correctness: True
+	Count_moves: 21
+
+1 5 4 2 3 comb
+	Correctness: True
+	Count_moves: 17
+
+1 5 4 3 2 comb
+	Correctness: True
+	Count_moves: 21
+
+2 1 3 4 5 comb
+	Correctness: True
+	Count_moves: 13
+
+2 1 3 5 4 comb
+	Correctness: True
+	Count_moves: 17
+
+2 1 4 3 5 comb
+	Correctness: True
+	Count_moves: 13
+
+2 1 4 5 3 comb
+	Correctness: True
+	Count_moves: 13
+
+2 1 5 3 4 comb
+	Correctness: True
+	Count_moves: 17
+
+2 1 5 4 3 comb
+	Correctness: True
+	Count_moves: 17
+
+2 3 1 4 5 comb
+	Correctness: True
+	Count_moves: 13
+
+2 3 1 5 4 comb
+	Correctness: True
+	Count_moves: 17
+
+2 3 4 1 5 comb
+	Correctness: True
+	Count_moves: 13
+
+2 3 4 5 1 comb
+	Correctness: True
+	Count_moves: 13
+
+2 3 5 1 4 comb
+	Correctness: True
+	Count_moves: 17
+
+2 3 5 4 1 comb
+	Correctness: True
+	Count_moves: 17
+
+2 4 1 3 5 comb
+	Correctness: True
+	Count_moves: 13
+
+2 4 1 5 3 comb
+	Correctness: True
+	Count_moves: 13
+
+2 4 3 1 5 comb
+	Correctness: True
+	Count_moves: 13
+
+2 4 3 5 1 comb
+	Correctness: True
+	Count_moves: 13
+
+2 4 5 1 3 comb
+	Correctness: True
+	Count_moves: 13
+
+2 4 5 3 1 comb
+	Correctness: True
+	Count_moves: 13
+
+2 5 1 3 4 comb
+	Correctness: True
+	Count_moves: 17
+
+2 5 1 4 3 comb
+	Correctness: True
+	Count_moves: 17
+
+2 5 3 1 4 comb
+	Correctness: True
+	Count_moves: 17
+
+2 5 3 4 1 comb
+	Correctness: True
+	Count_moves: 17
+
+2 5 4 1 3 comb
+	Correctness: True
+	Count_moves: 17
+
+2 5 4 3 1 comb
+	Correctness: True
+	Count_moves: 17
+
+3 1 2 4 5 comb
+	Correctness: True
+	Count_moves: 17
+
+3 1 2 5 4 comb
+	Correctness: True
+	Count_moves: 21
+
+3 1 4 2 5 comb
+	Correctness: True
+	Count_moves: 17
+
+3 1 4 5 2 comb
+	Correctness: True
+	Count_moves: 17
+
+3 1 5 2 4 comb
+	Correctness: True
+	Count_moves: 21
+
+3 1 5 4 2 comb
+	Correctness: True
+	Count_moves: 21
+
+3 2 1 4 5 comb
+	Correctness: True
+	Count_moves: 13
+
+3 2 1 5 4 comb
+	Correctness: True
+	Count_moves: 17
+
+3 2 4 1 5 comb
+	Correctness: True
+	Count_moves: 13
+
+3 2 4 5 1 comb
+	Correctness: True
+	Count_moves: 13
+
+3 2 5 1 4 comb
+	Correctness: True
+	Count_moves: 17
+
+3 2 5 4 1 comb
+	Correctness: True
+	Count_moves: 17
+
+3 4 1 2 5 comb
+	Correctness: True
+	Count_moves: 17
+
+3 4 1 5 2 comb
+	Correctness: True
+	Count_moves: 17
+
+3 4 2 1 5 comb
+	Correctness: True
+	Count_moves: 13
+
+3 4 2 5 1 comb
+	Correctness: True
+	Count_moves: 13
+
+3 4 5 1 2 comb
+	Correctness: True
+	Count_moves: 17
+
+3 4 5 2 1 comb
+	Correctness: True
+	Count_moves: 13
+
+3 5 1 2 4 comb
+	Correctness: True
+	Count_moves: 21
+
+3 5 1 4 2 comb
+	Correctness: True
+	Count_moves: 21
+
+3 5 2 1 4 comb
+	Correctness: True
+	Count_moves: 17
+
+3 5 2 4 1 comb
+	Correctness: True
+	Count_moves: 17
+
+3 5 4 1 2 comb
+	Correctness: True
+	Count_moves: 21
+
+3 5 4 2 1 comb
+	Correctness: True
+	Count_moves: 17
+
+4 1 2 3 5 comb
+	Correctness: True
+	Count_moves: 13
+
+4 1 2 5 3 comb
+	Correctness: True
+	Count_moves: 13
+
+4 1 3 2 5 comb
+	Correctness: True
+	Count_moves: 17
+
+4 1 3 5 2 comb
+	Correctness: True
+	Count_moves: 17
+
+4 1 5 2 3 comb
+	Correctness: True
+	Count_moves: 13
+
+4 1 5 3 2 comb
+	Correctness: True
+	Count_moves: 17
+
+4 2 1 3 5 comb
+	Correctness: True
+	Count_moves: 13
+
+4 2 1 5 3 comb
+	Correctness: True
+	Count_moves: 13
+
+4 2 3 1 5 comb
+	Correctness: True
+	Count_moves: 13
+
+4 2 3 5 1 comb
+	Correctness: True
+	Count_moves: 13
+
+4 2 5 1 3 comb
+	Correctness: True
+	Count_moves: 13
+
+4 2 5 3 1 comb
+	Correctness: True
+	Count_moves: 13
+
+4 3 1 2 5 comb
+	Correctness: True
+	Count_moves: 17
+
+4 3 1 5 2 comb
+	Correctness: True
+	Count_moves: 17
+
+4 3 2 1 5 comb
+	Correctness: True
+	Count_moves: 13
+
+4 3 2 5 1 comb
+	Correctness: True
+	Count_moves: 13
+
+4 3 5 1 2 comb
+	Correctness: True
+	Count_moves: 17
+
+4 3 5 2 1 comb
+	Correctness: True
+	Count_moves: 13
+
+4 5 1 2 3 comb
+	Correctness: True
+	Count_moves: 13
+
+4 5 1 3 2 comb
+	Correctness: True
+	Count_moves: 17
+
+4 5 2 1 3 comb
+	Correctness: True
+	Count_moves: 13
+
+4 5 2 3 1 comb
+	Correctness: True
+	Count_moves: 13
+
+4 5 3 1 2 comb
+	Correctness: True
+	Count_moves: 17
+
+4 5 3 2 1 comb
+	Correctness: True
+	Count_moves: 13
+
+5 1 2 3 4 comb
+	Correctness: True
+	Count_moves: 17
+
+5 1 2 4 3 comb
+	Correctness: True
+	Count_moves: 17
+
+5 1 3 2 4 comb
+	Correctness: True
+	Count_moves: 21
+
+5 1 3 4 2 comb
+	Correctness: True
+	Count_moves: 21
+
+5 1 4 2 3 comb
+	Correctness: True
+	Count_moves: 17
+
+5 1 4 3 2 comb
+	Correctness: True
+	Count_moves: 21
+
+5 2 1 3 4 comb
+	Correctness: True
+	Count_moves: 17
+
+5 2 1 4 3 comb
+	Correctness: True
+	Count_moves: 17
+
+5 2 3 1 4 comb
+	Correctness: True
+	Count_moves: 17
+
+5 2 3 4 1 comb
+	Correctness: True
+	Count_moves: 17
+
+5 2 4 1 3 comb
+	Correctness: True
+	Count_moves: 17
+
+5 2 4 3 1 comb
+	Correctness: True
+	Count_moves: 17
+
+5 3 1 2 4 comb
+	Correctness: True
+	Count_moves: 21
+
+5 3 1 4 2 comb
+	Correctness: True
+	Count_moves: 21
+
+5 3 2 1 4 comb
+	Correctness: True
+	Count_moves: 17
+
+5 3 2 4 1 comb
+	Correctness: True
+	Count_moves: 17
+
+5 3 4 1 2 comb
+	Correctness: True
+	Count_moves: 21
+
+5 3 4 2 1 comb
+	Correctness: True
+	Count_moves: 17
+
+5 4 1 2 3 comb
+	Correctness: True
+	Count_moves: 17
+
+5 4 1 3 2 comb
+	Correctness: True
+	Count_moves: 21
+
+5 4 2 1 3 comb
+	Correctness: True
+	Count_moves: 17
+
+5 4 2 3 1 comb
+	Correctness: True
+	Count_moves: 17
+
+5 4 3 1 2 comb
+	Correctness: True
+	Count_moves: 21
+
+5 4 3 2 1 comb
+	Correctness: True
+	Count_moves: 17
+
+	Mean: [33m16.33[0m Std: [33m2.75[0m Min: [33m13[0m Max: [33m21[0m
+	[31mThere is a problem[0m result -> 0/120
+
+Check combination [33m100[0m statistic:
+	Mean: [33m778.46[0m Std: [33m18.31[0m Min: [33m722[0m Max: [33m824[0m
+
+Check combination [33m500[0m statistic:
+	Mean: [33m5298.08[0m Std: [33m32.75[0m Min: [33m5207[0m Max: [33m5384[0m
+
